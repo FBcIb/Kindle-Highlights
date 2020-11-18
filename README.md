@@ -1,8 +1,12 @@
 # Kindle-Highlights
-Paste highlights from a book on our Kindle to separate Words (for definitions), Noted content, and Quotes.
+Separate Kindle Highlights into Words (for definitions), Noted content, and Quotes.
 
-# Can run from a batch file (if env is added to PATH)
+# On windows, run from a batch file (if env is added to PATH)
 Create a filename.bat file in your env and run with win+r
+Batch file should have:
+  call C:\Path\to\venv\Scripts\Activate 
+  py C:\Path\to\file\highlight.py %*
+  pause
 
 # Future Functionality
 -Autowrite to your own Google Drive in separate Doc files.
