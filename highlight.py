@@ -60,17 +60,3 @@ words()
 # Print Quotes
 print('Quotes:')
 quotes()
-
-
-
-
-
-
-# future ideas:
-#       1.) Separate definitions from quotes - D
-# 2.) Autowrite to doc - D
-#       3.) Possibly add formatting for neater appearance
-#       4.) Write code in function(s) - D
-#       5.) Clean up definitions to remove unneeded punctuation - D
-#       6.) Add Noted highlights into a separate file
-# 7.) Lookup and attach definitions to each Word 
